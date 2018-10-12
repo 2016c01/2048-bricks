@@ -1,3 +1,4 @@
+```
 # 2048-bricks
 A new game by 2016c01
 After continuous efforts, a new game is completed on my computer.
@@ -138,3 +139,4 @@ So players are asked to drop manually, which gives players a lot of benefits.
 Maybe your score will be higher than me qwq
 
 Others should be retained according to the original (if there is any mistake, please point out.)
+```
